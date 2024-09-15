@@ -11,6 +11,4 @@ being destroyed.
 Terrorists: Plant the bomb and blow up the
 building.
 
-Other Notes: Dont fall off. 
-
-(Press FIRE to continue)
+Other Notes: Dont fall off.
