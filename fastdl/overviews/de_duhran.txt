@@ -1,0 +1,14 @@
+// overview description file for de_dust_oviv2.bsp
+
+global 
+{
+	ZOOM	1.20
+	ORIGIN	244.44 	290.13	-136
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_duhran.bmp"
+	HEIGHT	-136
+}

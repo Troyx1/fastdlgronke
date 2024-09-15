@@ -1,0 +1,14 @@
+//overview description file for de_militia.bsp
+
+global
+{
+	ZOOM	1.69
+	ORIGIN	615.38        -535.36	      62.50
+	ROTATED 0
+}
+
+layer
+{
+	IMAGE	"overviews/de_militia.tga"
+	HEIGHT	-380
+} 
